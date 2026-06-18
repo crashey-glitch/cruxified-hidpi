@@ -1,6 +1,6 @@
 # cruxified-hidpi
 
-[cruxified-hidpi xfce theme page](https://www.opendesktop.org/p/2363063/)
+[xfce theme page](https://www.opendesktop.org/p/2363063/)
 
 Re-edited cruxified theme for 4K monitors.
 A slight modification of cruxish, with thickened and coloured window borders:
